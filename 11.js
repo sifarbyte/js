@@ -1623,7 +1623,7 @@
 	content: "\e814";
 }
 .icon-star4:before {
-	content: "http://keyelementsgrp.com/wp-content/themes/halfcreative/images/logo_small.png";
+	content: "\e815";
 }
 .icon-tv2:before {
 	content: "\e816";
