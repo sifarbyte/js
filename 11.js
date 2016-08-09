@@ -1623,7 +1623,7 @@
 	content: "\e814";
 }
 .icon-star4:before {
-	content: "\e815";
+	content: "https://www.gatekeeperhq.com/assets/marketing/elements/logo-reduced-c7d61cbc89101dbf8771e37140ae6198820b2903ebda66d52a03e7cc0130886b.svg";
 }
 .icon-tv2:before {
 	content: "\e816";
